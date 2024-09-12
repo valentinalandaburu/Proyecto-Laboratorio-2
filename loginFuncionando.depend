@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1700229294 source:c:\users\pablo\desktop\laura code blocks\loginfuncionando\main.c
+	"loginFuncionando.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1700321338 c:\users\pablo\desktop\laura code blocks\loginfuncionando\loginfuncionando.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1700332608 source:c:\users\pablo\desktop\laura code blocks\loginfuncionando\loginfuncionando.c
+	"loginFuncionando.h"
+
+1700229294 source:c:\users\usuario\onedrive\escritorio\loginfuncionando\main.c
+	"loginFuncionando.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1700321338 c:\users\usuario\onedrive\escritorio\loginfuncionando\loginfuncionando.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1700335471 source:c:\users\usuario\onedrive\escritorio\loginfuncionando\loginfuncionando.c
+	"loginFuncionando.h"
+
